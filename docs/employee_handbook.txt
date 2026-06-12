@@ -1,0 +1,2 @@
+Employees receive 25 vacation days every year.
+Unused vacation days expire after one year.

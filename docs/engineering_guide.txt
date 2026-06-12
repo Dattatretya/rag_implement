@@ -1,0 +1,2 @@
+All pull requests require two approvals before merging.
+Code reviews should be completed within 48 hours.
